@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/Rose-Kimu/Result-Summary-Component)
+- Live Site URL: [Add live site URL here](https://scintillating-nougat-25bf76.netlify.app/)
 
 ## My process
 
@@ -110,16 +110,15 @@ I would want to continue in the area of responsive web development and especiall
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [MDN web docs](https://developer.mozilla.org/en-US/docs/Web/CSS) - This helped in the responsive design that involves mobile first design.
 
 
 
 ## Author
 
 - Website - Rose Kimu
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@Rose-Kimu](https://www.frontendmentor.io/profile/Rose-Kimu)
+
 
 
 
