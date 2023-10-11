@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Rose-Kimu/Result-Summary-Component)
-- Live Site URL: [Add live site URL here](https://scintillating-nougat-25bf76.netlify.app/)
+- Solution URL: [This is the solution URL](https://github.com/Rose-Kimu/Result-Summary-Component)
+- Live Site URL: [This is the live site URL](https://scintillating-nougat-25bf76.netlify.app/)
 
 ## My process
 
